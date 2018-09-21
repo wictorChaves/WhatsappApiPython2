@@ -1,0 +1,8 @@
+# It is necessary installed pycrypto
+
+# It is necessary install on windows VCForPython27.msi
+# windows command to install
+python -m pip install pycrypto
+
+# linux and mac command to install
+python pip install pycrypto
